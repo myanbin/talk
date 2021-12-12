@@ -1,7 +1,7 @@
 ---
 name: Apply link
 about: 申请友情链接模板
-title: "[APPLY]"
+title: ''
 labels: apply
 assignees: ''
 
